@@ -1,3 +1,4 @@
+# Archivo de resta para la API
 from fastapi import APIRouter, HTTPException
 
 router = APIRouter()
